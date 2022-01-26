@@ -4,4 +4,4 @@ Dataset source: https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi
 
 ## Tableau Analysis
 
-<img width="1440" alt="Screenshot 2022-01-27 at 5 06 43 AM" src="https://user-images.githubusercontent.com/69747121/151247657-4f410f25-f3f0-4237-9c5b-302dbe50958b.png">
+<img width="1440" alt="new" src="https://user-images.githubusercontent.com/69747121/151249818-d66467f8-e18c-4078-8bdc-8c8e63f8df16.png">
