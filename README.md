@@ -1,5 +1,5 @@
 # Coffee Beans Analysis
-Analysis of coffee beans with their country of origins, different coffee bean varieties, flavor profiles and cupper points. </br>
+Analysis of coffee beans with their country of origins, coffee varieties, flavor profiles and cupper points. </br>
 Dataset source: https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi 
 
 ## Tableau Analysis
